@@ -1,6 +1,6 @@
 # Bilibili
 #__auth__:"Sky lu"
-# -*- coding:utf-8 -*-
+# utf-8
 
 Python3.8
 
